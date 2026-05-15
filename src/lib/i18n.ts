@@ -53,7 +53,6 @@ export const translations = {
     taskNotFound: "Task not found",
     notes: "Notes",
     tasksTab: "Tasks",
-    overview: "Overview",
     saved: "Saved"
   },
   es: {
@@ -110,7 +109,6 @@ export const translations = {
     taskNotFound: "Tarea no encontrada",
     notes: "Notas",
     tasksTab: "Tareas",
-    overview: "Resumen",
     saved: "Guardado"
   }
 };
